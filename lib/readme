@@ -1,4 +1,4 @@
-//step 1 add package
+//step 1 add packag then design home
 // Step 2: Create the CounterProvider class.
 // Step 3: Wrap the app with MultiProvider to manage multiple providers.
   // MultiProvider is used to manage multiple state providers within the app.

@@ -47,3 +47,9 @@ class _MyHomeState extends State<MyHome> {
     );
   }
 }
+
+
+// Explanation of context.read and context.watch:
+// context.read: Returns a static, single-read-only value. Use this if the
+// value does not need to automatically update in real-time.
+// context.watch: Dynamically listens and updates the UI as the value changes.
